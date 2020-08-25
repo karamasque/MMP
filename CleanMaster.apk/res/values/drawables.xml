@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="icon_appcleaner_back">@miui:drawable/action_bar_back_light</item>
+    <item type="drawable" name="icon_appcleaner_settings">@miui:drawable/icon_settings_light</item>
+    <item type="drawable" name="icon_expander_light">@miui:drawable/expander_open_light</item>
+    <item type="drawable" name="icon_group_clean_back">@miui:drawable/action_bar_back_light</item>
+    <item type="drawable" name="icon_main_back">@miui:drawable/action_bar_back_light</item>
+    <item type="drawable" name="icon_main_setting">@miui:drawable/icon_settings_light</item>
+    <item type="drawable" name="icon_whatsapp_back">@miui:drawable/action_bar_back_light</item>
+    <item type="drawable" name="icon_whatsapp_setting">@miui:drawable/action_button_setting_light</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="wa_appcleaner_settings">@miui:drawable/icon_settings_light</item>
+</resources>
